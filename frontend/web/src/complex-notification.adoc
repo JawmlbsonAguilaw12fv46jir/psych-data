@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\complex-notification.adoc
+// Generated at: 2025-10-07T12:55:31.106Z
